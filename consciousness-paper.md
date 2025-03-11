@@ -304,4 +304,74 @@ By pursuing these directions within an integrated structure-network framework, w
 
 ## References
 
-[Comprehensive reference list would be inserted here]
+Craddock, T. J. A., St. George, M., Freedman, H., Barakat, K., Damaraju, S., Hameroff, S., et al. (2012a). Computational predictions of volatile anesthetic interactions with the microtubule cytoskeleton: Implications for side effects of general anesthesia. PLoS ONE, 7(6), e37251​
+pmc.ncbi.nlm.nih.gov
+.
+
+Craddock, T. J. A., Tuszynski, J. A., & Hameroff, S. (2012b). Cytoskeletal signaling: Is memory encoded in microtubule lattices by CaMKII phosphorylation? PLoS Computational Biology, 8(3), e1002421​
+pmc.ncbi.nlm.nih.gov
+.
+
+Hameroff, S. R., & Watt, R. C. (1982). Information processing in microtubules. Journal of Theoretical Biology, 98(4), 549–561​
+pmc.ncbi.nlm.nih.gov
+.
+
+Hameroff, S. R. (1987). Ultimate Computing: Biomolecular Consciousness and Nanotechnology. Amsterdam: Elsevier North Holland​
+pmc.ncbi.nlm.nih.gov
+.
+
+Hameroff, S. R., & Penrose, R. (1996a). Orchestrated reduction of quantum coherence in brain microtubules: A model for consciousness. Mathematics and Computers in Simulation, 40(3–4), 453–480​
+pmc.ncbi.nlm.nih.gov
+.
+
+Hameroff, S. R. (2006). Consciousness, neurobiology and quantum mechanics: The case for a connection. In J. A. Tuszynski (Ed.), The Emerging Physics of Consciousness (pp. 193–253). Berlin: Springer​
+philpapers.org
+.
+
+Janke, C. (2014). The tubulin code: Molecular components, readout mechanisms, and functions. Journal of Cell Biology, 206(4), 461–472​
+pmc.ncbi.nlm.nih.gov
+.
+
+Khan, S., Huang, Y., Timuçin, D., Bailey, S., Lee, S., Lopes, J., … Wiest, M. C. (2024). Microtubule-Stabilizer Epothilone B delays anesthetic-induced unconsciousness in rats. eNeuro, 11(8), ENEURO.0291-24.2024​
+sciencedaily.com
+.
+
+Meyer, H. H. (1899). Zur Theorie der Alkoholnarkose. Erste Mittheilung: Welche Eigenschaft der Anästhetica bedingt ihre narkotische Wirkung? Archiv für experimentelle Pathologie und Pharmakologie, 42(2–4), 109–118​
+en.wikipedia.org
+.
+
+Naundorf, B., Wolf, F., & Volgushev, M. (2006). Unique features of action potential initiation in cortical neurons. Nature, 440(7087), 1060–1063​
+journals.sagepub.com
+.
+
+Overton, C. E. (1901). Studien über die Narkose: zugleich ein Beitrag zur allgemeinen Pharmakologie. Jena: Gustav Fischer​
+en.wikipedia.org
+.
+
+Penrose, R. (1989). The Emperor’s New Mind: Concerning Computers, Minds, and the Laws of Physics. Oxford, UK: Oxford University Press​
+pmc.ncbi.nlm.nih.gov
+.
+
+Penrose, R. (1996). On gravity’s role in quantum state reduction. General Relativity and Gravitation, 28(5), 581–600​
+pmc.ncbi.nlm.nih.gov
+.
+
+Sahu, S., Ghosh, S., Ghosh, B., Aswani, K., Hirata, K., Fujita, D., et al. (2013a). Atomic water channel controlling remarkable properties of a single brain microtubule: Correlating single protein to its supramolecular assembly. Biosensors and Bioelectronics, 47, 141–148​
+pmc.ncbi.nlm.nih.gov
+.
+
+Sahu, S., Ghosh, S., Hirata, K., Fujita, D., & Bandyopadhyay, A. (2013b). Multi-level memory-switching properties of a single brain microtubule. Applied Physics Letters, 102, 12370​
+pmc.ncbi.nlm.nih.gov
+.
+
+Saxena, K., Singh, P., Sahoo, P., Sahu, S., Ghosh, S., Ray, K., et al. (2020). Fractal, scale free electromagnetic resonance of a single brain extracted microtubule nanowire, a single tubulin protein and a single neuron. Fractal and Fractional, 4(2), 11​
+mdpi.com
+.
+
+Singh, P., Saxena, K., Sahoo, P., Ghosh, S., & Bandyopadhyay, A. (2021). Electrophysiology using coaxial atom probe array: Live imaging reveals hidden circuits of a hippocampal neural network. Journal of Neurophysiology, 125(6), 2107–2116​
+pmc.ncbi.nlm.nih.gov
+.
+
+Tegmark, M. (2000). Importance of quantum decoherence in brain processes. Physical Review E, 61(4), 4194–4206​
+scirp.org
+.
